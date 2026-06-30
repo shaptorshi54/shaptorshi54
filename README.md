@@ -12,7 +12,6 @@ Building scalable web applications, backend systems, and AI-powered products.
 
 - 🎓 MCA Graduate
 - 💻 Passionate about Full-Stack & Backend Development
-- 🚀 Interested in Founding Engineer & Forward Deployed Engineer roles
 - 🤖 Learning LLM implementation in full-stack applications
 - 🌱 Currently building production-ready projects
 
